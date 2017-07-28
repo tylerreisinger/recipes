@@ -13,7 +13,7 @@ Bean and Tofu Burritos
 * 5.5 Tbsp southwest seasoning
 * 3-4 onions (sweet or red)
 * Some peppers (optional). I prefer red bell peppers and chilies.
-* 12-16 small tortillas. I make two batches of [Flour Tortillas](FlourTortillas.txt).
+* 12-16 small tortillas. I make two batches of [Flour Tortillas](FlourTortillas.md).
 
 ## Process
 
