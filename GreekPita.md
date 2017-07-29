@@ -2,10 +2,8 @@ Greek Pita
 ==========
 
 * **Yield**: About 8 pitas (1 per 50g of flour)
-* **Total** Time: 2 hr
+* **Total Time**: 2 hours
 * **Active Time**: 45 min
-
-Makes about 8 pitas (1 per 50g of flour)
 
 ## Ingredients
 
@@ -28,14 +26,18 @@ Makes about 8 pitas (1 per 50g of flour)
   flat pita.
 * Let each pita sit for a few minutes before cooking.
 
-### Baking Method
+### Cooking
+
+* The pita may be either baked or heated on a skillet.
+
+#### Baking Method
 
 * Place each of the pita on baking sheets. If you have a pizza stone, preheat the oven with that
   in first.
 * Preheat the oven to 500 °F, then place the pita into the oven and turn it down to 450 °F.
 * Bake for 8-10 minutes.
 
-### Stove-top Method
+#### Stove-top Method
 
 * Preheat a cast-iron or similar pan with high heat capacity on the stove.
 * Place a single pita at a time into the pan, heating it for a few minutes and then flipping
