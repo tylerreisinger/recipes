@@ -29,4 +29,11 @@ Kale Basil Pesto
 * Add the pepper, nutritional yeast, lemon juice, salt and balsamic as well as the
   water and blend until smooth.
 
+### Storage
+
+Pesto freezes and stores very well, it is easy to make a large number of batches and freeze them.
+After making a few batches of the pesto, it can be stored in individual servings for easy use.
+Scoop around 1 cup of the pesto into individual ziplock bags or other containers and simply thaw them
+when needed. The pesto should remain flavorful for at least a year frozen.
+
 Adapted from: Isa Chandra (http://www.isachandra.com/2011/12/bestest-pesto/)
